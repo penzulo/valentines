@@ -1,32 +1,32 @@
 @font-face {
     font-family: Bidenatrial;
-    src: url("./assets/fonts/Bidenatrial.ttf");
+    src: url("assets/fonts/Bidenatrial.ttf");
 }
 
 @font-face {
     font-family: LSO;
-    src: url("./assets/fonts/LSO.ttf");
+    src: url("assets/fonts/LSO.ttf");
 }
 
 @font-face {
     font-family: beautiful-dream;
-    src: url("./assets/fonts/beautiful-dream.otf");
+    src: url("assets/fonts/beautiful-dream.otf");
 }
 
 @font-face {
     font-family: valentine-baby;
-    src: url("./assets/fonts/valentine-baby.otf");
+    src: url("assets/fonts/valentine-baby.otf");
 }
 
 
 @font-face {
     font-family: eden-meadow;
-    src: url("./assets/fonts/eden-meadow.tff");
+    src: url("assets/fonts/eden-meadow.tff");
 }
 
 @font-face {
     font-family: pinyon-script;
-    src: url("./assets/fonts/pinyon-script.ttf");
+    src: url("assets/fonts/pinyon-script.ttf");
 }
 
 html {
